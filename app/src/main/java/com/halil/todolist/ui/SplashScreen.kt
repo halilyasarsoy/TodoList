@@ -1,4 +1,4 @@
-package com.halil.todolist
+package com.halil.todolist.ui
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.os.Handler
 import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
+import com.halil.todolist.R
 
 @SuppressLint("CustomSplashScreen")
 @Suppress("DEPRECATION")
