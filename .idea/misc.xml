@@ -5,8 +5,16 @@
       <map>
         <entry key="..\:/projects/TodoList/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1395" />
         <entry key="..\:/projects/TodoList/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1395" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/drawable/icon_add.xml" value="0.132" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/drawable/icon_search.xml" value="0.1" />
         <entry key="..\:/projects/TodoList/app/src/main/res/layout/activity_main.xml" value="0.1585144927536232" />
         <entry key="..\:/projects/TodoList/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/layout/fragment_add.xml" value="0.22" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/layout/fragment_task.xml" value="0.1" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/layout/fragment_update.xml" value="0.2808988764044944" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/layout/row_layout.xml" value="0.28653295128939826" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/menu/task_menu.xml" value="0.27708333333333335" />
+        <entry key="..\:/projects/TodoList/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
