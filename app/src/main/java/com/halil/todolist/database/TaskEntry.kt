@@ -8,7 +8,7 @@ import kotlinx.parcelize.Parcelize
 @Parcelize
 @Entity(tableName = "task_table")
 data class TaskEntry(
-    @PrimaryKey
+    @PrimaryKey(autoGenerate = true)
     var id: Int,
     var title: String,
     var priority: Int,

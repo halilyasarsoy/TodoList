@@ -22,4 +22,10 @@ interface TaskDao {
     @Query("SELECT * FROM task_table ORDER BY timestamp DESC")
     fun getAllTasks (): LiveData<List<TaskEntry>>
 
+    @Query("select * from task_table order by priority asc")
+    fun getAllPriorityTasks(): LiveData<List<TaskEntry>>
+
+    @Query("select * from task_table where title like :searchQuery order by timestamp desc")
+    fun searchDatabase(searchQuery: String): LiveData<List<TaskEntry>>
+
 }
